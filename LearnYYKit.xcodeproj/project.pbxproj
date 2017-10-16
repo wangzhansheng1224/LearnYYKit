@@ -504,6 +504,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = LearnYYKit/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.smartdot.LearnYYKit;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -516,6 +517,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = LearnYYKit/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.smartdot.LearnYYKit;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -587,6 +589,7 @@
 				D292F4B11F9494FF00FAD02D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D292F4B21F9494FF00FAD02D /* Build configuration list for PBXNativeTarget "LearnYYKitTests" */ = {
 			isa = XCConfigurationList;
@@ -595,6 +598,7 @@
 				D292F4B41F9494FF00FAD02D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D292F4B51F9494FF00FAD02D /* Build configuration list for PBXNativeTarget "LearnYYKitUITests" */ = {
 			isa = XCConfigurationList;
@@ -603,6 +607,7 @@
 				D292F4B71F9494FF00FAD02D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
